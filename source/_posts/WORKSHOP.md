@@ -1,6 +1,6 @@
 ---
 layout: nus
-title: WORKSHOP
+title: NUS-SOC-WORKSHOP
 date: 2023-07-06 00:44:48
 tags:
     - Code
@@ -8,6 +8,8 @@ tags:
 categories:
     Life
 ---
+
+<!-- more -->   
 
 ## 7.4
 
